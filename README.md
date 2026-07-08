@@ -66,7 +66,7 @@ The model is trained on the **xBD (xView2)** disaster dataset containing satelli
 ## Project Structure
 
 ```text
-Disaster-Damage-Assessment-Post-Disaster-Images/
+Post-Disaster-Damage-Assessment/
 │
 ├── app.py
 ├── requirements.txt
