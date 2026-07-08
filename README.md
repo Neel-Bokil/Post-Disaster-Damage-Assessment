@@ -71,7 +71,6 @@ Disaster-Damage-Assessment-Post-Disaster-Images/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 │
 ├── notebooks/
     ├── 01-dataset-exploration.ipynb
